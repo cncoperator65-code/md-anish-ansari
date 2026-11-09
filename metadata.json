@@ -1,0 +1,6 @@
+{
+  "name": "PharmaX AI",
+  "description": "AI-Powered Pharmaceutical Platform featuring prescription OCR backbone, batch inventory management, joint venture stock sync, real-time GPS cold-chain tracking, and tiered subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
